@@ -1,52 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Saikumar Madel
-
-### Backend Developer • Systems Enthusiast • Cybersecurity Learner
-
-<p align="center">
-  <a href="https://linkedin.com/in/saikumarmadel">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:saimadel@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/SaikumarMadel">
-    <img src="https://img.shields.io/github/followers/SaikumarMadel?style=for-the-badge"/>
-  </a>
-</p>
+# Hello👋, I'm Saikumar Madel
 
 </div>
 
----
-
 # 💫 About Me
-
-```java
-public class SaikumarMadel {
-
-    String role = "Backend & Systems Developer";
-
-    String[] interests = {
-        "Backend Engineering",
-        "Linux & Systems",
-        "Cybersecurity",
-        "Cloud & DevOps"
-    };
-
-    String[] tech = {
-        "Java",
-        "Spring Boot",
-        "Docker",
-        "Linux",
-        "REST APIs"
-    };
-
-    boolean lovesDebugging = true;
-}
-```
 
 - 🎓 Computer Engineering Undergraduate (2026)
 - 💻 Interested in Backend Engineering & Scalable Systems
@@ -57,104 +15,60 @@ public class SaikumarMadel {
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Arsenal
 
-## 👨‍💻 Languages
-
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,bash"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,bash" />
 </p>
 
-## ⚙️ Backend & Frameworks
-
+### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,redis"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-## ☁️ DevOps & Tools
-
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
 
----
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</p>
 
-# 📌 Featured Projects
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,powershell" />
+</p>
 
-## 🔹 Smart Task Manager API
-
-- RESTful API built using Java & Spring Boot
-- JWT Authentication & Role-Based Access Control (RBAC)
-- Pagination, filtering, validation & exception handling
-- Layered architecture with JPA & MySQL
-
----
-
-## 🔹 Secure NAS System
-
-- Built secure NAS system using Docker-based services
-- Linux-based environment using WSL
-- Implemented VPN-secured communication
-- Automated workflows using Bash scripting
-- Focused on performance tuning & system reliability
-
----
-
-## 🔹 UniSphere ERP System
-
-- Multi-role ERP backend system
-- REST API-based architecture
-- Authentication & role management
-- MySQL database optimization & integration
-
----
-
-# 🏆 Experience
-
-## 🛡️ Research Intern — DRDO-DIAT Pune
-
-- Worked on containerized backend services using Docker
-- Gained hands-on exposure to Linux systems & networking
-- Debugged backend and system-level issues
-- Worked with storage systems & secure communication
-
----
-
-## 📊 Data Analytics Intern — KasNet Technologies
-
-- Worked on real-time client Power BI projects
-- Built analytical dashboards & reporting workflows
-- Exposure to Azure Fundamentals & cloud concepts
-
+### Core Concepts
+```text
+Data Structures & Algorithms
+REST APIs
+Authentication & Authorization
+System Design
+Computer Networks
+Operating Systems
+Linux & WSL
+Containerization
+Backend Architecture
+```
 ---
 
 # 📜 Certifications
 
-- Cisco Certified Support Technician (Cybersecurity)
-- Tata Cybersecurity Simulation
-- Deloitte Cyber Job Simulation
-- C/C++ Programming
-- Python & JavaScript Certifications
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaikumarMadel&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikumarMadel&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikumarMadel&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Cisco Certified Support Technician (CCST) Cybersecurity (Credly)
+- Tata Cybersecurity Simulation (Forage)
+- Deloitte Cyber Job Simulation (Forage)
+- C/C++ Programming (Udemy)
+- Python, JavaScript & CSS (Udemy)
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/saikumarmadel" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -164,7 +78,7 @@ public class SaikumarMadel {
 </a>
 </p>
 
----
+</div>
 
 <div align="center">
 
