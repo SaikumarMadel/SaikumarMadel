@@ -1,0 +1,6 @@
+# Local Python environments and generated runtime files
+.venv/
+__pycache__/
+
+# Local inspection scratch space
+tmp/
